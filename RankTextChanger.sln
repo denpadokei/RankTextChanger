@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RankTextChanger", "RankTextChanger\RankTextChanger.csproj", "{1FC05787-F25E-4D48-AC4B-0091E5708061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FC05787-F25E-4D48-AC4B-0091E5708061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC05787-F25E-4D48-AC4B-0091E5708061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC05787-F25E-4D48-AC4B-0091E5708061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC05787-F25E-4D48-AC4B-0091E5708061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBD7CEE3-A526-4E30-87E4-EEDC0EC89212}
+	EndGlobalSection
+EndGlobal
